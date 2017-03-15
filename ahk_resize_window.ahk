@@ -3,7 +3,7 @@
 SetTitleMatchMode, 2
 
 
-ScrollLock::
+^0::
 
 
 	SysGet, MonitorName1, MonitorName, 1
