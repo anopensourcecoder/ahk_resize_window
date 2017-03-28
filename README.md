@@ -19,8 +19,9 @@ https://autohotkey.com/docs/AutoHotkey.htm
 
 ## Tests
 
-Activate vmware screen or any other window and press CTRL+B key to span it accros monitors
-Activate vmware screen or any other window and press CTRL+1 to move a program window to second window and maximize it.
+Activate vmware screen or any other window and press CTRL+3 key to span it accros monitors
+Activate vmware screen or any other window and press CTRL+2 to move a program window to second window and maximize it.
+Activate vmware screen or any other window and press CTRL+1 to move a program window to first window and maximize it.
  
 Note: Currently this script only works with dual monitor setup when main monitor is at button and second monitor is at top. 
 
